@@ -1,2 +1,2 @@
-# prueba
-Ficheros para demos y pruebas
+# Repostorio prueba
+Ficheros para demos y pruebas. Contiene una aplicación MVC.
